@@ -7,26 +7,24 @@ _*¡Bienvenido a mi perfil de GitHub! Soy un apasionado del desarrollo de softwa
 ## 🛠️ Tecnologías y Herramientas
 
 - **Lenguajes:** HTML5, CSS3, JavaScript, Python.
-- **Frameworks:**  Bootstrap, Django.
+- **Frameworks:** Bootstrap, Django.
 - **Bases de Datos:** MySQL, PostgreSQL.
 - **Otros:** Git.
 
 ## 🌱 Actualmente Aprendiendo
 
-- JavaScript
-- Django
-- SQL
+- **JavaScript** _(Tejiendo interactividad en la web)_
+- **Django** _(Construyendo aplicaciones web con elegancia)_
+- **SQL** _(porque los datos cuentan historias)_
 
 ## 🔭 Proyectos Recientes
 
-- [Nombre del Proyecto 1](enlace-a-tu-proyecto-1): Breve descripción del proyecto.
-- [Nombre del Proyecto 2](enlace-a-tu-proyecto-2): Breve descripción del proyecto.
-- [Nombre del Proyecto 3](enlace-a-tu-proyecto-3): Breve descripción del proyecto.
+- [A Art Tattoo Studio](https://github.com/EnriHidalgoDev/A.-Art-Tattoo-Studio): Un catálogo interactivo para el estudio de tatuajes A Art Tattoo Studio, donde cada diseño cuenta una historia única.
 
 ## 📫 Cómo Contactarme
 
-- **Correo Electrónico:** enriquehidalgo.dev@gmail.com
+- **Correo Electrónico:** [enriquehidalgo.dev@gmail.com](mailto:enriquehidalgo.dev@gmail.com)
 
 ## 🎉 ¡Gracias por visitar mi perfil!
 
-Estoy siempre abierto a nuevas oportunidades y colaboraciones. No dudes en contactarme si tienes alguna pregunta o si deseas trabajar juntos en un proyecto.
+_*Estoy siempre en busca de nuevas oportunidades y colaboraciones emocionantes. Si tienes una pregunta o deseas explorar un proyecto juntos, ¡no dudes en escribirme! La creatividad florece mejor en compañía.*_
