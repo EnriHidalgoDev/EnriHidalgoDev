@@ -2,4 +2,4 @@
 ### Desarrollador Full-stack poliverante 🚀💻🔥
 Full-stack developer and polyverant, merging art, innovation, and creativity into code
 
-### About me
+### Acerca de mí
